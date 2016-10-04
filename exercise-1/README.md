@@ -5,3 +5,7 @@ As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should
 Then, in the space below, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote. When you push your changes back up to GitHub, you will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+>“Son, if you really want something in this life, you have to work for it. Now quiet! They’re about to announce the lottery numbers.”
+
+[More great Homer Simpson quotes](http://wallstreetinsanity.com/25-homer-simpson-quotes-you-should-never-follow-if-you-want-to-succeed-in-business/)
