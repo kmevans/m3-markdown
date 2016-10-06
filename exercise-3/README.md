@@ -1,11 +1,13 @@
-# Exercise-2
+# mkdir
 
-As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should begin by forking this repository, then cloning it to your local machine (if you haven't already).
+mkdir is a very useful command because it allows you to make directories.
 
-In the space below, you'll provide some information about a terminal command you've learned thus far in the class. In particular, you should include the following:
+In order to use it, just type `mkdir` followed by the name of the directory you want to make.
 
-A `heading` with the name of the command
-An example of how it can be used (with appropriate code highlighting)
-A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
+Reasons mkdir is awesome:
 
-See `complete` branch for answers.
+1. You can make new directories.
+ - Do you actually need more reasons than that?
+ - Seriously?
+ - Alright, here's one more.
+2. Its name is short so you don't have to type "make directory". So many letters saved!
